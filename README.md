@@ -4,7 +4,7 @@
 
 ------------------------------------------------------
 
-# Building a Secure and Scalable AWS VPC: A Thought Process Guide<a name="buildingvpcs"></a> 
+# Building a Secure and Scalable AWS VPC: A Thought Process Guide<a name="buildingvpc"></a> 
 
 When stepping into AWS networking, the choices can be overwhelming. But at its core, designing a secure and functional Virtual Private Cloud (VPC) is all about planning your resources wisely and keeping security top of mind. Whether you're aiming to be a Cloud Engineer or a Security Engineer, understanding the logic behind these decisions is crucial. Let’s break it down in a way that actually makes sense.
 
